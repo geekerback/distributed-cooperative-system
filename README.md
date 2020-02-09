@@ -1,6 +1,6 @@
 # 分布式协作系统 / distributed-cooperative-system
 ![](https://github.com/geekerback/distributed-cooperative-system/blob/master/DCS%20pictures/trust-450352_640.png?raw=true)
-## 为什么要做？
+## 为什么要做
 
 08年金融危机以来，全球范围从需求、创造到分配环节，都面临着更严峻的挑战。这催生了诸多变革，产生了如共享经济、区块链等新事物。这些创新无一不为提高整体社会效率而生。
 
