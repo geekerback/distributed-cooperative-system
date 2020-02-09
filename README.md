@@ -30,7 +30,9 @@
 
 **翻译同仁**：将开源信息译成英文，共享给更多人
 
-微信交流：TFVCXZS
+微信交流：TFVCXZS 或加入微信圈子
+
+![](https://github.com/geekerback/distributed-cooperative-system/blob/master/DCS%20pictures/%E4%BB%B7%E5%80%BC%E6%95%88%E7%8E%87%E7%A0%94%E7%A9%B6%E6%89%80.jpg?raw=true)
 
 ## LICENSE
 
