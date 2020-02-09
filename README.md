@@ -16,8 +16,6 @@
 
 **基于协作方法论的理论支持**
 
-同时也放弃所有已公开信息版权，希望有更多组织能将项目完成的更好！
-
 ## 我们的计划
 
 寻找参与分布式系统建设的志愿小伙伴，包括：
@@ -28,14 +26,12 @@
 
 **资源对接同仁**：对接市场已有的资源，避免、减少重复建设
 
-**翻译同仁**：将开源信息译成英文，共享给更多人
-
 微信交流：TFVCXZS 或加入微信圈子
 
 ![](https://github.com/geekerback/distributed-cooperative-system/blob/master/DCS%20pictures/wxquanzi.jpg?raw=true)
 
 ## LICENSE
 
-本项目除特别声明外，均采用 `The Unlicense` 协议，放弃所有权利。
+本项目除特别声明外，均采用 `The Unlicense` 协议，放弃所有权利。希望有更多组织能将项目完成的更好！
 
 # [👉设计原型见WIKI...](https://github.com/geekerback/distributed-cooperative-system/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E5%8D%8F%E4%BD%9C%E7%B3%BB%E7%BB%9F)
