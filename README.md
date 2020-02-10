@@ -26,7 +26,7 @@
 
 **资源对接同仁**：对接市场已有的资源，避免、减少重复建设
 
-微信交流：TFVCXZS 或加入微信圈子
+微信交流：tfvcxzs 或加入微信圈子
 
 ![](https://github.com/geekerback/distributed-cooperative-system/blob/master/DCS%20pictures/wxquanzi.jpg?raw=true)
 
